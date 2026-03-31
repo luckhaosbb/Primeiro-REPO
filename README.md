@@ -16,4 +16,5 @@ Processo Para Subir no Github
 - //git checkout -b dev (vai para a nova branch e cria ela)
 - //git checkout main (vai para main)
 - //git checkout dev (vai para dev)
+- //git merge dev (merge dev)
 - //(caso tenha outro usuario) cmdkey /delete:git:https://github.com
